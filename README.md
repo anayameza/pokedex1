@@ -46,3 +46,6 @@ Después del registro, se redirige automáticamente al portal de Azure:
 Desde aquí ya puedes comenzar a crear y administrar recursos en la nube.
 
 Cuenta creada exitosamente. Ya está lista para desplegar servicios como Web Apps, bases de datos, etc.
+
+
+##  Inge_Anaya
